@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Showdown</string>
+    <string name="user_input">Enter Friend\'s Random Code</string>
 </resources>
